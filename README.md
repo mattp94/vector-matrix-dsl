@@ -27,7 +27,7 @@ An example of usage with the following instruction (type it in your REPL):
 
 ## Syntax
 
-### To define an array
+#### Defining an array
 
 ```
 [1 1 1 1]
@@ -37,7 +37,7 @@ An example of usage with the following instruction (type it in your REPL):
 v(4 1)
 ```
 
-### To define a matrix
+#### Defining a matrix
 
 ```
 [[5 5 5 5]
@@ -49,13 +49,13 @@ v(4 1)
 m(3 4 5)
 ```
 
-### To affect a variable
+#### Affecting a variable
 
 ```
 a = [1 2 3 4]
 ```
 
-### To do an operation
+#### Doing an operation
 
 ```
 a = [1 2]; b = [3 4]; c = [5 6]; (a + b) * c + [7 8]
