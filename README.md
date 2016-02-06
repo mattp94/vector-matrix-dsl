@@ -1,6 +1,6 @@
 # vector-matrix-dsl
 
-*vector-matrix-dsl* is a student project to interpret matrix and array operations (+, - and *). It it has been developed in Clojure as part of a school project at ISEP.
+*vector-matrix-dsl* is a student project to interpret matrix and array operations (+, - and *). It has been developed in Clojure as part of a school project at ISEP.
 
 - \+ to add each element (i,j) together
 - \- to substract each element (i,j) together
